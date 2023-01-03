@@ -866,7 +866,7 @@ main {
 
 
 /*-----------------------------------*\
-  #BLOG
+  #PROJECTS
 \*-----------------------------------*/
 
 .blog-posts { margin-bottom: 10px; }
@@ -1079,7 +1079,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 
   /**
-   * #PUBLICATIONS, BLOG 
+   * #PUBLICATIONS, PROJECTS
    */
 
   .project-img,
@@ -1274,7 +1274,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 
   /**
-   * #PUBLICATIONS, BLOG
+   * #PUBLICATIONS, PROJECTS
    */
 
   .project-img, .blog-banner-box { border-radius: 16px; }
@@ -1508,7 +1508,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 
   /**
-   * BLOG
+   * PROJECTS
    */
 
   .blog-banner-box { height: 230px; }
