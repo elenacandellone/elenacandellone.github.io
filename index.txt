@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Elena Candellone
+Elena Candellone
+PhD Candidate
 
 Show Contacts
 
 Email
-richard@example.com
+candellone.elena@gmail.com
 
 Phone
-+1 (213) 352-2795
++39 3314541781
 
 Birthday
-June 23, 1982
+December 2, 1998
 
 Location
-Sacramento, California, USA
+Utrecht, The Netherlands
 
 # navbar
 
