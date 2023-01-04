@@ -543,11 +543,15 @@
           <ul class="filter-list">
             
             <li class="filter-item">
-              <button data-filter-btn>All</button>
+              <button class="active" data-filter-btn>All</button>
+            </li>
+            
+            <li class="filter-item">
+              <button data-filter-btn>Thesis</button>
             </li>
 
             <li class="filter-item">
-              <button class="active" data-filter-btn>Network Science</button>
+              <button data-filter-btn>Network Science</button>
             </li>
 
             <li class="filter-item">
@@ -577,6 +581,10 @@
               <li class="select-item">
                 <button data-select-item>All</button>
               </li>
+              
+              <li class="select-item">
+                <button data-select-item>Thesis</button>
+              </li>
 
               <li class="select-item">
                 <button data-select-item>Network Science</button>
@@ -593,6 +601,28 @@
             </ul>
 
           </div>
+          
+          <ul class="project-list">
+
+            <li class="project-item  active" data-filter-item data-category="thesis">
+              <a href="Bachelor_thesis.pdf">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="./assets/images/kuramoto.jpg" alt="bachelor thesis" loading="lazy">
+                </figure>
+
+                <h3 class="project-title">Synchronization of coupled oscillators: Kuramoto model</h3>
+
+                <p class="project-category">Thesis</p>
+
+              </a>
+            </li>
+
+          </ul>
 
           <ul class="project-list">
 
