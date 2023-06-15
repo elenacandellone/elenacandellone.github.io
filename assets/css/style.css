@@ -131,6 +131,27 @@ li { list-style: none; }
 
 img, ion-icon, a, button, time, span { display: block; }
 
+a:link {
+  color: var(--orange-yellow-crayola);
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: var(--orange-yellow-crayola);
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: var(--orange-yellow-crayola);
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: var(--orange-yellow-crayola);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
 button {
   font: inherit;
   background: none;
