@@ -25,7 +25,7 @@ window.TEXT = {
   page_title: "An interactive tool from the model of Candellone 2026",   // browser tab (plain text)
   header_title: "An interactive tool from the model of Candellone 2026",
   header_subtitle: "ODISSEI Conference 2026, Utrecht, NL.",
-  intro: `Pick a debate topic and answer three questions. The model then predicts which side you would vote for, based on about 45,000 votes cast on debate.org between 2007 and 2022.`,
+  intro: `Pick a debate topic and answer three questions. The model then predicts which side you would vote for, based on about 45,000 votes cast on debate.org between 2007 and 2017.`,
 
   // ---------- explain menu ----------
   explain_heading: "4. I wanna know more!",
@@ -139,7 +139,7 @@ Elena Candellone · Utrecht University · [paper](https://arxiv.org/abs/2606.037
 
 Users could also list their own opinion on 48 political issues, such as abortion or gun rights, and votes were shown in the order they came in. That makes it possible to study opinions, arguments and audiences together.
 
-The data were collected and released for research by Durmus and Cardie (2018, 2019).`,
+The data, covering 2007–2017, were collected and released for research by Durmus and Cardie (2018, 2019).`,
     },
     {
       id: "opinion",
