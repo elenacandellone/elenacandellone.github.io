@@ -22,10 +22,10 @@
 window.TEXT = {
 
   // ---------- top of the page ----------
-  page_title: "An interactive tool from the model of Candellone 2026",   // browser tab (plain text)
-  header_title: "An interactive tool from the model of Candellone 2026",
+  page_title: "An interactive tool from the model of Candellone (2026)",   // browser tab (plain text)
+  header_title: "An interactive tool from the model of Candellone (2026)",
   header_subtitle: "ODISSEI Conference 2026, Utrecht, NL.",
-  intro: `Pick a debate topic and answer three questions. The model then predicts which side you would vote for, based on about 45,000 votes cast on debate.org between 2007 and 2017.`,
+  intro: `Pick a debate topic and try out the model by choosing a value for each of its three parts: your opinion, the persuasiveness of the debater, and how diverse the previous voters were. The model then predicts which side you would vote for, based on about 45,000 votes cast on debate.org between 2007 and 2017.`,
 
   // ---------- explain menu ----------
   explain_heading: "4. I wanna know more!",
@@ -146,7 +146,7 @@ The data, covering 2007–2017, were collected and released for research by Durm
       question: "What does “your opinion” mean?",
       answer: `On debate.org, users could mark themselves Pro or Con on 48 issues. Here, “Pro” means you agree with the Pro side of the debate.
 
-“Pro” and “Con” use a typical strength of opinion from the data (the median among users who gave one). “Strongly” uses the strongest 5%.
+“Pro” and “Con” use a typical strength of opinion from the data (the median among users who gave an opinion). “Strongly” uses the strongest 5%.
 
 In the paper this is called conviction (τ).`,
     },
